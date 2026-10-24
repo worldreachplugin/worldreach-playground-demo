@@ -6,8 +6,8 @@
     {
       "step": "importWordPressFiles",
       "wordPressFilesZip": {
-        "resource": "bundled",
-        "path": "/site.zip"
+        "resource": "url",
+        "url": "https://worldreachplugin.com/playground-demo/site.zip"
       }
     }
   ]
